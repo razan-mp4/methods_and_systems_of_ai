@@ -8,3 +8,5 @@ Labs from subject "methods and systems of artificial intelligence"
 >lab3: Fuzzy Logic
 
 >lab4: Bigram Model
+
+>lab5: ART1 Alogorithm
