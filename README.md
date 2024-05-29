@@ -6,3 +6,5 @@ Labs from subject "methods and systems of artificial intelligence"
 >lab2: Genetic Alogorithm
 
 >lab3: Fuzzy Logic
+
+>lab4: Bigram Model
