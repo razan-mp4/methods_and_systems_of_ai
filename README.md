@@ -10,3 +10,5 @@ Labs from subject "methods and systems of artificial intelligence"
 >lab4: Bigram Model
 
 >lab5: ART1 Alogorithm
+
+>lab6: Neuro Network
